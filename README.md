@@ -23,4 +23,4 @@ print("Weather Analysis")
 print("----------------")
 print("Highest Temperature:", highest_temp, "°C")
 print("Lowest Temperature:", lowest_temp, "°C")
-print("Average Temperature:", average_temp, "°C")# CODTECH-TASK-2
+print("Average Temperature:", average_temp, "°C")
